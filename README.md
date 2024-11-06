@@ -1,7 +1,7 @@
 # Machine-learning-manual
 Aprendendo a fazer redes  neurais, partindo do zero, fazendo maior parte manualmente
 
-Um projeto pessoal, a ideia desse projeto é apenas testar a aplicação, não possuindo interface gráfico e sendo de díficil acesso para pessoas que não conhece a estrutura do código python, entretanto como estou deixando publico então vou explicar as funções e seus parametros para um acesso mais básico, saliento que será dificil de entender também para quem não conhece o mecanismo das redes neurais 
+Um projeto pessoal, a ideia desse projeto é apenas testar a aplicação, não possuindo interface gráficA e sendo de díficil acesso para pessoas que não conhecem a estrutura do código python, entretanto como estou deixando publico então vou explicar as funções e seus parametros para um acesso mais básico, mas, saliento que será dificil de entender também para quem não conhece o mecanismo das redes neurais 
 
 
 
